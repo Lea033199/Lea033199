@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leandra Mithra</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
-- 🔭 I’m currently working on **API testing**
+- 🔭 I’m currently working on **testing**
 
-- 🌱 I’m currently learning **Appium**
-
-- 👯 I’m looking to collaborate on **Selenium**
-
-- 🤝 I’m looking for help with **Selenium**
+- 🌱 I’m currently learning **Selenium**
 
 - 📫 How to reach me **leandramithra31@gmail.com**
 
